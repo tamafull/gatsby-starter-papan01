@@ -46,6 +46,11 @@ const config = {
   ],
   // Links to pages you want to display in the navigation bar.
   navbarLinks: [
+    // {
+    //   label: 'Home',
+    //   url: '/',
+    //   iconClassName: 'fa fa-home',
+    // },
     {
       label: 'Archives',
       url: '/archives',

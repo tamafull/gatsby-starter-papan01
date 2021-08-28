@@ -29,6 +29,11 @@ const config = {
       iconClassName: 'fa fa-envelope',
     },
     {
+      label: 'twitter',
+      url: 'https://twitter.com/uma_musu',
+      iconClassName: 'fab fa-twitter',
+    },
+    {
       label: 'facebbok',
       url: 'https://www.facebook.com/louis.peng.58?ref=bookmarks',
       iconClassName: 'fab fa-facebook',

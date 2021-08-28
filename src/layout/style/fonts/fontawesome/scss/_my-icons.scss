@@ -46,3 +46,6 @@
 .#{$fa-css-prefix}-home:before {
   content: fa-content($fa-var-home);
 }
+.#{$fa-css-prefix}-tags:before {
+  content: fa-content($fa-var-tags);
+}

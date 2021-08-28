@@ -62,6 +62,11 @@ const config = {
       iconClassName: 'fa fa-list-alt',
     },
     {
+      label: 'Tags',
+      url: '/tags',
+      iconClassName: 'fa fa-tags',
+    },
+    {
       label: 'About',
       url: '/about',
       iconClassName: 'fa fa-address-card',
